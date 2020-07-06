@@ -1,4 +1,3 @@
-# The Real NAPS-ter Official (TRNO) | AWS Red Hat OpenShift 4 | Deployment Prep Tools
 ## 1. Create base ArtifactBundle asset images & directories
 ```
 mkdir -p ${HOME}/TRNO
